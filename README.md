@@ -40,8 +40,8 @@ export default defineConfig({
 
 ```ts
 // app.js
-import htmx from 'htmx.org'
 import 'htmx-ext-no-cache'
+import htmx from 'htmx.org'
 ```
 
 In your HTML:

@@ -1,6 +1,6 @@
 {
   "name": "htmx-ext-no-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bypass caching for a specific HTMX request",
   "main": "no-cache.js",
   "scripts": {
