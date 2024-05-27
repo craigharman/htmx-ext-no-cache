@@ -1,5 +1,5 @@
 ;(function () {
-	htmx.defineExtension("noCache", {
+	htmx.defineExtension("no-cache", {
 		onEvent: function (name, evt) {
 			if (name === "htmx:configRequest") {
 				var url = new URL(evt.detail.path, window.location.origin)

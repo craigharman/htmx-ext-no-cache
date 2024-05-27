@@ -48,7 +48,7 @@ In your HTML:
 
 ```html
 <body>
-    <button hx-get="/your-endpoint" hx-ext="noCache">Click me</button>
+    <button hx-get="/your-endpoint" hx-ext="no-cache">Click me</button>
 </body>
 ```
 
