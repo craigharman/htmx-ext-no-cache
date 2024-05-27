@@ -52,4 +52,4 @@ In your HTML:
 </body>
 ```
 
-Add the `hx-ext="noCache"` to any HTMX element you don't want to cache.
+Add the `hx-ext="no-cache"` to any HTMX element you don't want to cache.
