@@ -1,0 +1,23 @@
+{
+  "name": "htmx-ext-no-cache",
+  "version": "1.0.0",
+  "description": "Bypass caching for a specific HTMX request",
+  "main": "no-cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craig-harman/htmx-ext-no-cache.git"
+  },
+  "keywords": [
+    "htmx",
+    "cache"
+  ],
+  "author": "Craig Harman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craig-harman/htmx-ext-no-cache/issues"
+  },
+  "homepage": "https://github.com/craig-harman/htmx-ext-no-cache#readme"
+}
